@@ -1,29 +1,22 @@
-
 ESP32 Fish Camera
 =================
 
 Description:
 -------------
-This project turns an ESP32-CAM into a simple underwater fish monitor. Just flash the ESP32 using Arduino IDE, connect it to Wi-Fi, and enjoy live video of your fishes from anywhere!
+Turn your ESP32-CAM into a simple fish tank monitor. Just flash it with Arduino, connect to Wi-Fi, and watch your fish live from your browser!
 
 Setup Instructions:
 -------------------
-1. Install the Arduino IDE (if you haven't already).
-2. Install the ESP32 board support in Arduino IDE.
-3. Open the sketch provided and set your Wi-Fi SSID and password.
-4. Select the right board: AI Thinker ESP32-CAM.
-5. Connect your ESP32-CAM to your computer via a USB-to-Serial adapter.
-6. Click "Upload" to flash the firmware.
-7. After uploading, open the Serial Monitor at 115200 baud to find the IP address.
-8. Open a browser and enter the IP address to view your fish tank!
+1. Install Arduino IDE and ESP32 board support.
+2. Open the sketch and set your Wi-Fi SSID and password.
+3. Select board: AI Thinker ESP32-CAM.
+4. Connect ESP32-CAM via USB-to-Serial adapter and upload the sketch.
+5. Open Serial Monitor at 115200 baud to see the IP address.
+6. Enter the IP in a browser to view your fish tank.
 
 Tips:
 ------
-- Use a waterproof case if you place the camera inside or close to the water.
-- Ensure your Wi-Fi signal reaches the tank area.
+- Make sure your Wi-Fi reaches the tank area.
+- Place the camera safely above the water.
 - Enjoy watching your fish in real-time!
-
-Credits:
---------
-Inspired by DIY ESP32-CAM projects and underwater hobbyists.
 
