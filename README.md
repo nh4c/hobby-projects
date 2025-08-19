@@ -1,5 +1,3 @@
-# hobby-projects
-
 # Welcome to My Projects Repository! 🎉
 
 Hi there! 👋  
