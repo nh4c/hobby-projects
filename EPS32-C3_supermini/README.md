@@ -2,7 +2,8 @@
 
 This project uses an **ESP32-C3 Super Mini** and a **capacitive soil moisture sensor** to monitor plant health.  
 The ESP32-C3 reads the sensor via ADC, connects to WiFi, and serves a simple web page showing soil moisture as a raw value, percentage, and status (Dry / Moist / Wet).
-
+![alt text](image.png)
+![alt text](image-1.png)
 ---
 
 ## 🛠 Hardware
